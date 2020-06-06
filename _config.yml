@@ -1,11 +1,1 @@
-theme: thelehhman/texture
-
-texture:
-  title: Peter Laca
-  tagline: Developer. Explorer.
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: petlack
-    github:  petlack
-    linkedIn: sk/peterlaca # format: locale/username
+theme: minimal
